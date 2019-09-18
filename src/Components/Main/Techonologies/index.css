@@ -1,0 +1,8 @@
+.tech{
+    
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(241, 132, 89);
+}
